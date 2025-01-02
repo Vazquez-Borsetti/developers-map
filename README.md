@@ -1,4 +1,4 @@
-# Interactive Plotly Chart: Developers per Million Inhabitants
+# Interactive Plotly Chart: Map of Developers per Million Inhabitants
 This interactive chart, created with Plotly, illustrates the number of developers per million inhabitants. 
 The data is based on figures provided by GitHub in this post; https://github.blog/news-insights/octoverse/octoverse-2024/)
  and population data was obtained from: https://www.kaggle.com/datasets/erikbruin/countries-of-the-world-iso-codes-and-population.
